@@ -18,6 +18,7 @@
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
+         
 <distributionManagement>
   <repository>
      <id>deployment</id>
@@ -30,4 +31,5 @@
      <url>http://192.168.33.11:8080/nexus-2.11.4-01/content/repositories/snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
+         
 </project>
